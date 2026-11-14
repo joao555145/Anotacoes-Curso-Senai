@@ -11,4 +11,9 @@ DADO: Menor unidade de uma informação.
 INFORMAÇÃO: Dados estruturados.
 TABULAR: "Planilha".
 
-QUEM CUIDA DOS DADOS/IRFORMAÇÕES: Analista de Dados, Engenheiro de Dados, Segurança de Dados, ADM de Banco de Dados.
+QUEM CUIDA DOS DADOS/INFORMAÇÕES: Analista de Dados, Engenheiro de Dados, Segurança de Dados, ADM de Banco de Dados.
+
+FUNCIONALIDADES PRINCIPAIS
+1-POWER VIEW-Criar/Desenvolver.
+2-POWER QUERY-Editor/Tratamento.
+3-POWER PIVOT-Criar uma relação de uma base de dados(EX:Clientes & Produtos = Vendas).
